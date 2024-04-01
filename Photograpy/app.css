@@ -1,0 +1,18 @@
+body
+{
+    background-color: white;
+}
+.imgh
+{
+    border-radius:10px;
+    height: 200px;
+}
+.card
+{
+    background-color: #cbbacc;
+}
+.pic-ti
+{
+    width: 150px;
+    height: 150px;
+}
